@@ -11,15 +11,6 @@ Currently, I have three Google Cloud Professional Certifications and over 50 onl
 
 As a very curious person, the IT world fascinates me, and I wish to keep learning and growing from it!
 
-I work as a DevOps Engineer at Perceptiva, where I do stuff like:
-
-• Implementation, deployment, and maintenance of systems.
-
-• Cloud infrastructure management and systems administration.
-
-• Infrastructure as code.
-
-• Monitoring and troubleshooting.
 
 Key technologies: Linux, Kubernetes, Docker, Git, Helm, Google Cloud Platform, MySQL, Cassandra, Axway.
 
