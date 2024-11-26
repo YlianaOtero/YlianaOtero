@@ -1,30 +1,19 @@
 ### Hi there 👋
 
-My name is Yliana.
-I am a 21 years old software engineering student from Montevideo, Uruguay. 
+🌟 Software Engineer | Systems Engineering Student | Full Time Nerd
 
-I am a fan of science, technology and literature, and a Cloud enthusiast. 
+Hi there! I'm a Software Engineer 1 at Cencosud, contributing to the Platform Engineering team.
 
-I have a passion for cloud architecture, devops and software development. 
+Currently pursuing a degree in Software/Systems Engineering at Universidad ORT Uruguay, I’m combining academic learning with real-world application. My professional and academic journey has equipped me with skills in:
 
-Currently, I have three Google Cloud Professional Certifications and over 50 online courses about data, AI, DevOps, cloud computing, and more. 
+Cloud Platforms: Designing and deploying scalable, high-availability solutions.
+Kubernetes and DevOps: Automating deployments and infrastructure-as-code.
+Programming: Experience in Go, C# (.NET), Python and other modern languages for creating reliable and maintainable systems.
+Collaboration: Thriving in multidisciplinary teams to deliver impactful projects.
+I’m passionate about leveraging technology to solve complex problems and am always eager to learn and grow. Whether it’s optimizing processes, exploring emerging technologies, or mastering new frameworks, I aim to deliver meaningful results with curiosity and dedication.
 
-As a very curious person, the IT world fascinates me, and I wish to keep learning and growing from it!
+Outside of work, I prioritize maintaining balance while continuously pursuing personal and professional growth.
 
+Let’s connect if you share a passion for engineering, innovation, or simply want to discuss the tech landscape and productivity strategies!
 
-Key technologies: Linux, Kubernetes, Docker, Git, Helm, Google Cloud Platform, MySQL, Cassandra, Axway.
-
-<!--
-**YlianaOtero/YlianaOtero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in Montevideo, Uruguay | 🌍 Open to connecting globally
