@@ -2,7 +2,7 @@
 
 🌟 Software Engineer | Systems Engineering Student | Full Time Nerd
 
-Hi there! I'm a Software Engineer 1 at Cencosud, contributing to the Platform Engineering team.
+Hi there! I'm a Software Engineer at Cencosud, contributing to the Platform Engineering team.
 
 Currently pursuing a degree in Software/Systems Engineering at Universidad ORT Uruguay, I’m combining academic learning with real-world application. My professional and academic journey has equipped me with skills in:
 
